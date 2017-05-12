@@ -12,9 +12,7 @@ You can refer to example code in example folder
 Support
 
 Merchant Technical Support / Customer Care : support@molpay.com 
-
 Sales/Reseller Enquiry : sales@molpay.com 
-
 Marketing Campaign : marketing@molpay.com 
 
 Channel/Partner Enquiry : channel@molpay.com 
