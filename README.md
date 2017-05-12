@@ -10,7 +10,7 @@ This library is required for merchant to implement in-page payment without too m
 You can refer to example code in example folder
 
 Support
-
+-------
 Merchant Technical Support / Customer Care : support@molpay.com <br>
 Sales/Reseller Enquiry : sales@molpay.com <br>
 Marketing Campaign : marketing@molpay.com <br>
